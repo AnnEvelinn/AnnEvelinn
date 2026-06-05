@@ -10,11 +10,6 @@
 
 💭 Currently discovering different areas of computer science and software development
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnnEvelinn&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/AnnEvelinn?label=Followers&style=social" alt="followers" />
-</p>
-
 ---
 
 ## 📊 GitHub Stats
@@ -25,15 +20,15 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AnnEvelinn&theme=radical" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=AnnEvelinn&theme=dark"/>
 </p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,git,github,androidstudio,vscode,unity" />
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,unity" />
 </p>
 
 ---
@@ -41,23 +36,19 @@
 
 ## 🌱 Currently Learning
 
-* JavaScript
-* Git & GitHub
-* Unity Game Development
-* Android Development
-* Data Structures & Algorithms
+• HTML, CSS, JavaScript • Git & GitHub • Unity • React
 
 ---
 
 ## 🌐 Connect With Me
 
-<a href="YOUR_LINKEDIN_URL" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
 ---
 
-## ✨ Quote
+### ✨ Quote
 
 > "Small progress every day adds up to big results."
 
