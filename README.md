@@ -16,7 +16,7 @@
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,unity" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,unity,c++,java" />
 </p>
 
 ## 🌱 Currently Learning
