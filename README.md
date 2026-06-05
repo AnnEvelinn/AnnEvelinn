@@ -8,22 +8,16 @@
 
 🌱 Learning in public and documenting my journey in tech
 
-💭 Currently discovering different areas of computer science and software development
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnnEvelinn&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnEvelinn&layout=compact&theme=radical"/>
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=AnnEvelinn&show_icons=true&theme=radical" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnEvelinn&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AnnEvelinn&theme=dark"/>
+  <img height="140" src="https://streak-stats.demolab.com?user=AnnEvelinn&theme=dark" />
 </p>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -31,18 +25,9 @@
   <img src="https://skillicons.dev/icons?i=js,html,css,react,unity" />
 </p>
 
----
-
-
 ## 🌱 Currently Learning
 
-• HTML, CSS, JavaScript • Git & GitHub • Unity • React
+• HTML • CSS • JavaScript • Git & GitHub • Unity • React
 
----
-
-
-### ✨ Quote
-
-> "Small progress every day adds up to big results."
-
-⭐
+### ✨ Quote  
+"Small progress every day adds up to big results." ⭐
