@@ -8,13 +8,7 @@
 
 🌱 Learning in public and documenting my journey in tech
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=AnnEvelinn&show_icons=true&theme=radical" />
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnEvelinn&layout=compact&theme=radical" />
-</p>
-
+## 📊 GitHub Stats  
 <p align="center">
   <img height="140" src="https://streak-stats.demolab.com?user=AnnEvelinn&theme=dark" />
 </p>
