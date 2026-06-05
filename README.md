@@ -21,7 +21,12 @@
 
 ## 🌱 Currently Learning
 
-• HTML • CSS • JavaScript • Git & GitHub • Unity • React
+• HTML  
+• CSS  
+• JavaScript  
+• React  
+• Unity
 
 ### ✨ Quote  
-"Small progress every day adds up to big results." ⭐
+"Small progress every day adds up to big results."  
+⭐
