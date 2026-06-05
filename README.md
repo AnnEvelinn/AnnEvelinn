@@ -6,4 +6,4 @@
 🌱 Learning in public and documenting my journey in tech
 💭 Currently discovering different areas of computer science and software development
 
-![Ann's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnEvelinn&show_icons=true&theme=radical)
+![Ann's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnEvelinn&show_icons=true&theme=radical) (https://github.com/anuraghazra/github-readme-stats)
