@@ -1,7 +1,6 @@
-
 # 👋 Hi, I'm Ann!
 
-👩🏻‍🎓 BTech Computer Science Student at CUSAT
+👩🏻‍🎓 BTech Computer Science Student
 
 👩🏻‍💻 Exploring technology through hands-on projects and continuous learning
 
@@ -10,6 +9,11 @@
 🌱 Learning in public and documenting my journey in tech
 
 💭 Currently discovering different areas of computer science and software development
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnnEvelinn&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/AnnEvelinn?label=Followers&style=social" alt="followers" />
+</p>
 
 ---
 
@@ -21,14 +25,14 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AnnEvelinn&theme=radical"/>
+  <img src="https://streak-stats.demolab.com?user=AnnEvelinn&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,html,css,git,github,androidstudio,vscode,unity" />
 </p>
 
@@ -37,22 +41,24 @@
 
 ## 🌱 Currently Learning
 
-* HTML,CSS,JavaScript
+* JavaScript
+* Git & GitHub
 * Unity Game Development
-* React
+* Android Development
+* Data Structures & Algorithms
 
 ---
 
 ## 🌐 Connect With Me
 
-<a href="https://www.linkedin.com/in/ann-evelin-vincent/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+<a href="YOUR_LINKEDIN_URL" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 
 ---
 
-### ✨ Quote
+## ✨ Quote
 
 > "Small progress every day adds up to big results."
 
-
+⭐ Thanks for visiting my profile!
