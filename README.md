@@ -40,16 +40,9 @@
 
 ---
 
-## 🌐 Connect With Me
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
----
 
 ### ✨ Quote
 
 > "Small progress every day adds up to big results."
 
-⭐ Thanks for visiting my profile!
+⭐
